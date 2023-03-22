@@ -8,7 +8,9 @@ $primary-color: #1ff7a5;
 html, body {
     all: unset;
 }
-
+// * {
+//     border: 1px solid red;
+// }
 @keyframes slide-top {
     0% {
       transform: translateY(-25px);
@@ -21,15 +23,26 @@ html, body {
   }
 
 #hero {
+    position: relative;
     height: 100vmin;
     color: $text-primary;
-    background: url('../images/hero.jpg');
+    background: #dffff3;
     background-size: cover;
     background-position: center;
     font-family: $font-primary;
     display: flex;
     align-items: center;
     justify-content: flex-start;
+
+    .hero-bottle {
+        position: absolute;
+        overflow: hidden;
+        z-index: 0;
+        height: 75%;
+        width: auto;
+        top: 10%;
+        left: 42%;
+    }
 
     #hero-content {
 

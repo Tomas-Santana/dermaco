@@ -1,6 +1,7 @@
 import * as React from "react"
 import "../styles/global.scss"
 
+
 const IndexPage = () => {
   return (
     <main>
@@ -13,6 +14,7 @@ const Header = () => {
   
   return (
     <header id="hero">
+      <img src="https://drive.google.com/uc?export=view&id=13mPQcRyMQVgHS1zIWGjNBHfBuVx5rJvy" alt="Dermaco Soap Bottle" className="hero-bottle"/>
       <div id="hero-content">
         <div id="hero-text">
           <h1>El jabon de tus sueños</h1>
