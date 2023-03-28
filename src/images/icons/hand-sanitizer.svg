@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 23.999999 24"
+   width="100"
+   height="100"
+   stroke-width="2"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="hand-sanitizer.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.0525"
+     inkscape:cx="122.09026"
+     inkscape:cy="278.3848"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <rect
+     style="fill:#eded1c;fill-opacity:0;stroke:none;stroke-width:0.178122"
+     id="rect929"
+     width="23.821878"
+     height="23.821878"
+     x="0.089060999"
+     y="0.089060999" />
+  <path
+     d="M 18.18,2.5353417e-6 V 2.4000025 l -4.8,-0.0012 v 2.4012 h 3.6 v 2.399998 c 2.652,0 4.8,2.148 4.8,4.8000005 V 21.6 c 0,1.326001 -1.074,2.400001 -2.4,2.400001 H 4.9799996 c -1.326,0 -2.4,-1.074 -2.4,-2.400001 v -9.599999 c 0,-2.6520005 2.147999,-4.8000005 4.8,-4.8000005 v -2.4 H 10.98 v -2.401198 l -4.2000004,0.0012 c -0.756001,0 -1.644,0.588 -2.64,1.92 l -1.92,-1.439998 c 1.404,-1.872 2.916,-2.8799999646583 4.56,-2.8799999646583 z M 16.98,9.6000025 H 7.3799996 c -1.326,0 -2.4,1.0740005 -2.4,2.4000005 v 9.599999 H 19.38 v -9.599999 c 0,-1.326 -1.074,-2.4000005 -2.4,-2.4000005 z m -3.6,2.4000005 v 2.4 h 2.4 v 2.4 h -2.4012 l 0.0012,2.4 h -2.4 l -0.0012,-2.4 H 8.5800006 v -2.4 h 2.4000004 v -2.4 z"
+     id="path4"
+     style="stroke-width:2.20799995;stroke:none;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill:#ededed;fill-opacity:1" />
+</svg>

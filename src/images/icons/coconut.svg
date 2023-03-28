@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 47.892791 100.23373"
+   width="99.776649"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="coconut.svg"
+   height="100.23373"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.6275"
+     inkscape:cx="-9.5106823"
+     inkscape:cy="87.112336"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g12" />
+  <g
+     fill="none"
+     stroke="#000000"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="2"
+     id="g12"
+     transform="translate(-29.446615,-6.2965847)">
+    <g
+       id="g938"
+       transform="matrix(2.3810823,0,0,2.4421198,-3.7530381,-5.2364463)"
+       style="stroke:#ededed;stroke-opacity:1">
+      <path
+         d="M 16.79,39.85 C 9.3,37.39 4,31.23 4,24 4,14.61 13,7 24,7 35,7 44,14.61 44,24 a 14.69,14.69 0 0 1 -1,5.37"
+         id="path2"
+         style="stroke:#ededed;stroke-opacity:1" />
+      <path
+         d="M 42.09,36.95 C 34.28,44.76 22.57,45.71 15.93,39.07 9.29,32.43 10.24,20.72 18.05,12.91"
+         id="path4"
+         style="stroke:#ededed;stroke-opacity:1" />
+      <ellipse
+         cx="30.5"
+         cy="24.5"
+         rx="7.7800002"
+         ry="16.969999"
+         transform="rotate(-45,30.497249,24.497626)"
+         id="ellipse6"
+         style="stroke:#ededed;stroke-opacity:1" />
+      <ellipse
+         cx="30.5"
+         cy="24.5"
+         rx="4.2399998"
+         ry="12.73"
+         transform="rotate(-45,30.497249,24.497626)"
+         id="ellipse8"
+         style="stroke:#ededed;stroke-opacity:1" />
+    </g>
+    <path
+       d="M -559,-355 H 131 V 335 H -559 Z"
+       id="path10" />
+  </g>
+</svg>

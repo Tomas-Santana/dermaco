@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@mdx-js/react": "^2.3.0",
+    "@react-spring/parallax": "^9.7.1",
     "gatsby": "^5.7.0",
     "gatsby-plugin-google-gtag": "^5.7.0",
     "gatsby-plugin-image": "^3.7.0",
@@ -24,8 +25,11 @@
     "gatsby-plugin-sharp": "^5.7.0",
     "gatsby-source-filesystem": "^5.7.0",
     "gatsby-transformer-sharp": "^5.7.0",
+    "jquery": "^3.6.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.59.3"
+    "remixicon": "^2.5.0",
+    "sass": "^1.59.3",
+    "typewriter-effect": "^2.19.0"
   }
 }
