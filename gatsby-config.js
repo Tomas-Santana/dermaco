@@ -6,7 +6,7 @@ module.exports = {
     title: `Dermaco`,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-sass", "gatsby-plugin-google-gtag", "gatsby-plugin-image", "gatsby-plugin-mdx", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
+  plugins: ["gatsby-plugin-sass", {
     resolve: 'gatsby-source-filesystem',
     options: {
       "name": "images",

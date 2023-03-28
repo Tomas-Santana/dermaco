@@ -1,5 +1,5 @@
 import * as React from "react"
-import { useCallback, useEffect, useState } from "react"
+import { useState, useEffect } from "react"
 import "../styles/global.scss"
 import Typewriter from 'typewriter-effect/dist/core';
 
@@ -13,6 +13,7 @@ import perfume from "../images/icons/perfume.svg"
 import coconut from "../images/icons/coconut.svg"
 import ena from "../images/icons/ena.svg"
 
+const isBrowser = typeof window !== "undefined"
 
 
 const IndexPage = () => {
@@ -32,6 +33,7 @@ console.log(logo)
 const NavBar = () => {
   const [colorChange, setColorChange] = useState(false);
   const changeNavbarColor = () =>{
+    if (!isBrowser) return;
     if(window.scrollY >= 20){
       setColorChange(true);
     }
@@ -39,7 +41,9 @@ const NavBar = () => {
       setColorChange(false);
     }
  };
- window.addEventListener('scroll', changeNavbarColor);
+ if (isBrowser) {
+  window.addEventListener('scroll', changeNavbarColor);
+ }
   return (
     <div id="navbar" className={colorChange ? 'navbar scrolled' : 'navbar'}>
       <div id="navbar-logo">
@@ -69,9 +73,10 @@ function Type() {
   });
 }
 
-window.onload = Type;
-
 const HeaderTitle = () => {
+  useEffect(() => {
+    Type()
+  }, [])
 
   return (
     <h1>El jabón que <br/>
