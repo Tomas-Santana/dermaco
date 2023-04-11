@@ -154,7 +154,6 @@ const MailForm = () => {
   return (
     <form name="waitlist" id="mailing-list" netlify>
           <input name="email" type="email" id="email" placeholder="listopara@cuidarmipiel.com"/>
-          <input type="hidden" name="_captcha" value="false"></input>
           <button className="button1" type="submit">Únete a la lista de espera</button>
     </form>
   )
