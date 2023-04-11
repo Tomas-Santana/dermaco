@@ -152,7 +152,7 @@ const Header = () => {
 const MailForm = () => {
   
   return (
-    <form method="POST" action="https://formsubmit.co/erikacsm26@gmail.com" id="mailing-list">
+    <form name="waitlist" id="mailing-list" netlify>
           <input name="email" type="email" id="email" placeholder="listopara@cuidarmipiel.com"/>
           <input type="hidden" name="_captcha" value="false"></input>
           <button className="button1" type="submit">Únete a la lista de espera</button>
@@ -162,7 +162,7 @@ const MailForm = () => {
 
 const Presentation = () => {
   return (
-    <section id="presentation">
+    <section id="presentation" style={{padding: "30px"}}>
       <div id="presentation-content">
         <div id="presentation-text">
           <h2 className="section-title">¿Qué es Dermaco?</h2>
